@@ -1,6 +1,6 @@
-# MEARN Social Media Project
+# MERN Social Media Project
 
-This is a MEARN (MongoDB, Express, Angular, React, and Node.js) social media project that allows users to create an account, post messages, and view other users' messages. 
+This is a MERN (MongoDB, Express, React, and Node.js) social media project that allows users to create an account, post messages, and view other users' messages. 
 
 ## Getting Started
 
@@ -34,7 +34,7 @@ This will open the application in your default web browser.
 
 The project is structured as follows:
 
-- `client`: This directory contains the Angular front-end code.
+- `client`: This directory contains the React front-end code.
 - `server`: This directory contains the Node.js/Express back-end code and the MongoDB database code.
 
 ## Contributing
