@@ -1,1 +1,1 @@
-# mern-social-media
+MEARN Social Media Project
