@@ -11,10 +11,11 @@ To get started with the project, you will need to have the following installed o
 
 Once you have these installed, you can clone the repository and install the dependencies:
 
-git clone https://github.com/username/mearn-social-media.git
+```
+git clone https://github.com/Atharva-14/mern-social-media.git
 cd mearn-social-media
 npm install
-
+```
 
 ## Running the Application
 
