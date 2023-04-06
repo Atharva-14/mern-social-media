@@ -20,9 +20,9 @@ npm install
 ## Running the Application
 
 To run the application, you will need to start both the client and server. To start the server, navigate to the root directory of the project and run the following command:
-
+```ruby
 npm run server
-
+```
 To start the client, navigate to the `client` directory and run the following command:
 
 npm start
