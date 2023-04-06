@@ -24,9 +24,9 @@ To run the application, you will need to start both the client and server. To st
 npm run server
 ```
 To start the client, navigate to the `client` directory and run the following command:
-
+````
 npm start
-
+````
 
 This will open the application in your default web browser.
 
